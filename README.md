@@ -26,7 +26,7 @@ A large menu and uneven demand made kitchen work difficult to manage. Some dishe
 I plotted dishes on a scatter chart using two measures:
 
 - **Popularity:** based on the number of units sold.
-- **Preparation difficulty:** a score from 1 to 5 based on whether a dish is made to order (40%), active preparation time (30%), number of steps (15%) and number of staff required (15%). This is a structured operational estimate rather than a timed measurement.
+- **Preparation difficulty:** a score from 1 to 5 based on whether a dish is made to order (40%), active preparation time (30%), number of steps (15%) and number of staff required (15%). This is a structured operational estimate rather than a timed measurement. 5 = hard to make 1 = easy to make
 
 Popular dishes that were comparatively easy to make were candidates for promotion. Less popular dishes that were difficult to make were candidates for review.
 
